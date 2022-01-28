@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  font-weight: bold;
+  background-color: #09072e;
+  color: white;
+  border: 50px solid #2feded;
+  border-top-width: 0px;
+  padding:20%;
+  padding-top: 0%;
+}
+#submitbutton{
+  background-color: orange;
+  border: 1px solid white;
+  border-radius: 25px;
+  padding:20px;
+}
